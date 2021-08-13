@@ -53,19 +53,7 @@ app.use(('/campgrounds/:id/comments')  ,commentRoutes);
 
 
 
-// Campground.create(
-//     {
-//         name: "Niagra Falls",
-//         image: "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/e3/a0/6a.jpg",
-//         description: "This is the most beautiful waterfall you'll ever see.!"
-//     }, function(err, campground){
-//         if(err){
-//             console.log(err);
-//         } else{
-//             console.log("new campsite!");
-//             console.log(campground);
-//         }
-//     });
+
 
 
 
